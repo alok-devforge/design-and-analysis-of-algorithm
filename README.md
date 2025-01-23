@@ -17,7 +17,7 @@ This repository contains solutions to the homework assignments given in my colle
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Design-and-Analysis-of-Algorithm.git
+   git clone https://github.com/ALOK-CST/DesignAndAnalysisOfAlgorithm.git
 2. Navigate to the relevant file to view the solution.
 
 3. Compile the C code using:
