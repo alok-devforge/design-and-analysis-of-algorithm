@@ -32,7 +32,6 @@ void divide(int arr[],int start,int end,int *g,int *s)
     divide(arr,start,mid,g,s);
     divide(arr,mid+1,end,g,s);
 }
-
 int main()
 {
     int n, max= INT_MIN, min= INT_MAX;
