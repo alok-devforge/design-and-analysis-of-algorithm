@@ -28,8 +28,8 @@ int main()
     sortArray(arr,n);
     printf("Enter the number to be searched: ");
     scanf("%d",&key);
-    int start= 0,end= n;
-    while(start<end)
+    int start= 0,end= n-1;
+    while(start<=end)
     {
         int mid= start+(end-start)/2;
         if(arr[mid]==key)
