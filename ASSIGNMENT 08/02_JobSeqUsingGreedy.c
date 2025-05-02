@@ -52,7 +52,6 @@ void jobSequencing(Job jobs[], int n)
     printf("\n");
     free(timeslot);
 }
-
 int main()
 {
     int n;
